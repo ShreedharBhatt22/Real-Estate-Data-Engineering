@@ -1,5 +1,5 @@
 # Real-Estate-Data-Engineering
-![architecture.png](architecture.png)
+![Architecture.png](Architecture.png)
 
 This Real Estate End-to-End Data Engineering project showcases a sophisticated pipeline designed to automate, process, and manage real estate data efficiently. Here's a detailed explanation of the components and techniques involved:
 
