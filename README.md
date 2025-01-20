@@ -19,10 +19,12 @@ Apache Zookeeper manages Kafka clusters, ensuring stable performance and fault t
 Master-Worker Spark Cluster:
 
 Streaming applications were deployed in a Spark cluster with a master-worker architecture. The master node coordinates tasks, while worker nodes handle data processing. This distributed setup ensures faster data processing, scalability, and fault tolerance.
+
 4. Distributed Data Storage
 Apache Cassandra:
 Cassandra, a NoSQL distributed database, was chosen for storing real estate data. It offers high availability, scalability, and fault tolerance, making it ideal for large datasets.
 This implementation improved data processing speed by 40% due to its efficient write and read operations across distributed nodes.
+
 5. Pipeline Monitoring and Management
 Confluent Control Center:
 Confluent Control Center was used to monitor and manage Kafka clusters. It provides insights into data flow, latency, throughput, and potential bottlenecks.
